@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # [Sage](https://roots.io/sage/)
 [![Build Status](https://travis-ci.org/roots/sage.svg)](https://travis-ci.org/roots/sage)
 [![devDependency Status](https://david-dm.org/roots/sage/dev-status.svg)](https://david-dm.org/roots/sage#info=devDependencies)
@@ -139,3 +140,7 @@ Keep track of development and community news.
 * Listen to the [Roots Radio podcast](https://roots.io/podcast/)
 # tropinha-wp
 # tropinha-wp
+=======
+# tropinha-wp
+Wordpress Theme in sage
+>>>>>>> 446905c3235173b3f8d9b50d6e22d5d9976a0e21
