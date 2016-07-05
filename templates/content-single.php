@@ -13,3 +13,5 @@
     <?php comments_template('/templates/comments.php'); ?>
   </article>
 <?php endwhile; ?>
+
+<script>console.log('content-single.php');</script>
